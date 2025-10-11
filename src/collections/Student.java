@@ -2,15 +2,15 @@ package collections;
 
 public class Student {
 
-       String name;
-       double grade;
-      int course;
+    String name;
+    double grade;
+    int course;
 
-     Student(String name, double grade, int course) {
-          this.name = name;
+    Student(String name, double grade, int course) {
+        this.name = name;
         this.grade = grade;
-          this.course = course;
-      }
+        this.course = course;
+    }
 
     @Override
     public String toString() {
