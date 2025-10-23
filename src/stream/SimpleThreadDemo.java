@@ -1,4 +1,4 @@
-package collections;
+package stream;
 
 public class SimpleThreadDemo {
 
